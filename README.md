@@ -1,4 +1,7 @@
-# ¡Hola! 👋 Soy Erik Huayllas (eridev)
+<div align="center">
+  <h1>¡Hola! 👋 Soy Erik Huayllas (eridev)</h1>
+</div>
+
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador web frontend apasionado por crear experiencias digitales increíbles. 
 <!--
