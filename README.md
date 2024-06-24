@@ -7,9 +7,6 @@
 <!--
 Aquí encontrarás una selección de mis proyectos y un poco más sobre mí.
 -->
-## Sobre mí
-
-Tengo experiencia en la creación de interfaces de usuario atractivas y funcionales. Mi enfoque principal es en el desarrollo frontend (de camino tambien al desarrollo backend), utilizando tecnologías como HTML, CSS y JavaScript, así como diversos frameworks y herramientas modernas.
 
 ### Habilidades
 
